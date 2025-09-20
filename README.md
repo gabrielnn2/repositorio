@@ -1,2 +1,2 @@
 # repositorio
-Arquivo de repositório vazio para teste.
+Arquivo de repositório para teste.
